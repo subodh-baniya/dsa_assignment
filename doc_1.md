@@ -108,6 +108,7 @@ int main(){
 
 ## Sample Output
 - Sample 1:
+  <img width="1449" height="197" alt="Image" src="https://github.com/user-attachments/assets/1b06584e-680e-41a8-8664-6a5ba009083c" />
 - Sample 2:
 - Sample 3:
 
