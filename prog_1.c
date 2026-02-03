@@ -17,7 +17,7 @@ void push(char c){
 char pop(){
     if (top == -1)
     {
-        return '\0';
+        printf("Stack Underflow");
     }
     return stack[top--];
 }
