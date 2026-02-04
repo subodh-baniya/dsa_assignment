@@ -157,5 +157,5 @@ int main(){
 - Prints the final result.
 
 ## Sample Output
-
+<img width="1440" height="203" alt="Image" src="https://github.com/user-attachments/assets/d4fea586-5fd7-4e89-a9aa-d12c12c28085" />
 
