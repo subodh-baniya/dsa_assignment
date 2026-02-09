@@ -128,5 +128,5 @@ int main() {
 
 
 ## Sample Output
-
+<img width="357" height="264" alt="Image" src="https://github.com/user-attachments/assets/e678744a-7828-4949-b170-5eef709effd6" />
 
