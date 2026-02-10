@@ -12,7 +12,7 @@ int arr[MAX];
 
 ## Functions Implemented
 
-1.void maxHeapify(int arr[], int n, int i) 
+1. void maxHeapify(int arr[], int n, int i) 
 ```c
 void maxHeapify(int arr[], int n, int i) {
     int largest = i; 
