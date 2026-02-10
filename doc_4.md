@@ -1,4 +1,4 @@
-# Reverse Traversal of a Singly Linked List
+# Doubly Linked List Operations
 This is the fourth question of the assignment where we have to implement a doubly linked list with basic operations: insertion at the end, insertion after a given node, deletion of a node, and display of the list.
 
 ## Data Structure
