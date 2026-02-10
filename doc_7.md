@@ -1,4 +1,4 @@
-# B# Dijkstra’s Algorithm (Shortest Path from Source Node)
+# Dijkstra’s Algorithm (Shortest Path from Source Node)
 This is the seventh question of the assignment where we  implement **Dijkstra’s Algorithm** to find the shortest path from a **source node** to all other nodes in a weighted graph using an **adjacency matrix** representation.
 
 # Data Structure
